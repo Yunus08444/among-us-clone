@@ -1,0 +1,4 @@
+# Одинаковые переносы строк у всех (Windows/Mac/Linux) — без предупреждений LF/CRLF
+* text=auto eol=lf
+*.png binary
+*.jpg binary
